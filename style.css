@@ -83,7 +83,7 @@ h2 {
 
 h3 {
     font-size: 1.5rem;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 /* Présentation */
@@ -214,18 +214,8 @@ h3 {
 }
 
 .img-projet {
-    height: 200px;
-    background: linear-gradient(45deg, #e6ccf2, #f7edfb);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 24px;
-    color: #333333;
-    transition: background 0.3s ease;
-}
-
-.projet:hover .img-projet {
-    background: linear-gradient(45deg, #d9b3e8, #e6ccf2);
+    width: 100%;
+    
 }
 
 .info {
