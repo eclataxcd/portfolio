@@ -3,6 +3,7 @@ body {
     background-color: #ffffff;
     color: #333333;
     line-height: 1.6;
+    margin: 0;
 }
 
 .boite {
@@ -328,7 +329,7 @@ footer {
     }
 
     nav ul li {
-        margin: 5px 0;
+        font-size: small;
     }
 
     .ligne {
